@@ -6,3 +6,11 @@
 
 ### 1. Bernoulli Distribution
 
+#### Definition
+확률변수 X가 성공(1), 실패(0)의 결과만 가지면, 확률변수 X는 Bernoulli 분포를 따른다.
+
+#### PMF
+![bernoulli_pmf](https://github.com/YeonJun-IN/probability_for_machine_learning/blob/main/Bernoulli_img1.PNG)
+
+#### Expectation and Variance
+![bernoulli_ex_var](https://github.com/YeonJun-IN/probability_for_machine_learning/blob/main/Bernoulli_img2.PNG)
