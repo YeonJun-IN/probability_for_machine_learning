@@ -4,7 +4,7 @@
 
 ## Discrete Probability Distribution
 
-### 1. Bernoulli Distribution
+### [1. Bernoulli Distribution](https://github.com/YeonJun-IN/probability_for_machine_learning/blob/main/Bernoulli.ipynb)
 
 #### Definition
 확률변수 X가 성공(1), 실패(0)의 결과만 가지면, 확률변수 X는 Bernoulli 분포를 따른다.
